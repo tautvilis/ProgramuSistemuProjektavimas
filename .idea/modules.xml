@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PSP2.iml" filepath="$PROJECT_DIR$/PSP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/uzduotis3/lab2.iml" filepath="$PROJECT_DIR$/src/main/java/uzduotis3/lab2.iml" />
     </modules>
   </component>
 </project>
